@@ -1,0 +1,29 @@
+:root {
+    color-scheme: light dark;
+}
+
+body {
+    font-family: 'Rethink Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+hr {
+    opacity: 0.5;
+}
+
+a {
+    color: #297ae9;
+}
+
+.container {
+    margin: auto;
+    max-width: 500px;
+    padding: 2rem;
+}
